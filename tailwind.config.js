@@ -2,7 +2,14 @@
 export default {
 	content: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
 	theme: {
-		extend: {},
+		extend: {
+			colors: {
+				color1: "#775040",
+			},
+			fontFamily: {
+				mainFont: ["Montserrat", "Calibri", "sans-serif"],
+			},
+		},
 	},
 	plugins: [],
 };
