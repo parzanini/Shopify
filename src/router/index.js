@@ -4,7 +4,7 @@ import NewProducts from "../views/NewProducts.vue";
 import Women from "../views/Women.vue";
 import Men from "../views/Men.vue";
 import Accessories from "../views/Accessories.vue";
-import MyAccount from "../views/Myaccount.vue";
+import MyAccount from "../views/MyAccount.vue";
 import Cart from "../views/Cart.vue";
 import Checkout from "../views/Checkout.vue";
 
