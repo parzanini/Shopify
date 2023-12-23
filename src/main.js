@@ -10,10 +10,11 @@ import { library } from "@fortawesome/fontawesome-svg-core";
 import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
 
 /* import the icons you want to use */
-import { faShoppingCart } from "@fortawesome/free-solid-svg-icons";
+import { faB, faBars, faShoppingCart } from "@fortawesome/free-solid-svg-icons";
 
 /* add the icons to the library */
 library.add(faShoppingCart);
+library.add(faBars);
 
 createApp(App)
 	.component("font-awesome-icon", FontAwesomeIcon)
