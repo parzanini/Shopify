@@ -1,10 +1,10 @@
 <template>
-	<h1>This is About page</h1>
-	<router-view />
+	<div></div>
 </template>
+
 <script>
 	export default {
-		name: "About",
+		name: "MyAccount",
 		components: {},
 	};
 </script>
