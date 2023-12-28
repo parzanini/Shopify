@@ -17,10 +17,6 @@ const routes = [
 	{ path: "/myaccount", name: "MyAccount", component: MyAccount },
 	{ path: "/cart", name: "Cart", component: Cart },
 	{ path: "/checkout", name: "Checkout", component: Checkout },
-	{ path: "/www.facebook.com", name: "Facebook" },
-	{ path: "/www.instagram.com", name: "Instagram" },
-	{ path: "/www.twitter.com", name: "Twitter" },
-	{ path: "/www.youtube.com", name: "Youtube" },
 ];
 
 const router = createRouter({

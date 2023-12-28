@@ -16,3 +16,7 @@
 
 -The NavBar seems to be working properly; need to add transitions.
 -Created the base for the other pages and started on the footer.
+
+28/12/2023
+
+-Footer completed; additional functions will be added later.

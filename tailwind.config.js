@@ -5,6 +5,7 @@ export default {
 		extend: {
 			colors: {
 				color1: "#775040",
+				color2: "#aea89b",
 			},
 			fontFamily: {
 				mainFont: ["Montserrat", "Calibri", "sans-serif"],
