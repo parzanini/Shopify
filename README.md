@@ -20,3 +20,8 @@
 28/12/2023
 
 -Footer completed; additional functions will be added later.
+
+-29/12/2023
+
+-Home Page view started
+-Improvements to navbar
