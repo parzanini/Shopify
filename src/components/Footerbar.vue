@@ -80,7 +80,7 @@
 <script>
 	import icon1 from "../assets/facebook.png";
 	import icon2 from "../assets/instagram.png";
-	import icon3 from "../assets/twitter.png";
+	import icon3 from "../assets/x.png";
 	import icon4 from "../assets/youtube.png";
 
 	export default {
