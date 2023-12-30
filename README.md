@@ -25,3 +25,7 @@
 
 -Home Page view started
 -Improvements to navbar
+
+-30/12/2023
+
+-Image Carousel created using Swiper and customized.

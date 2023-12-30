@@ -11,4 +11,20 @@
 		border-radius: 40px;
 		padding: 0.5em;
 	}
+	.centered {
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, 200%);
+	}
+}
+.swiper-pagination-bullet {
+	width: 20px !important;
+	height: 20px !important;
+	background-color: #2e1913 !important;
+	opacity: 0.4 !important;
+	margin-bottom: 10px !important;
+}
+.swiper-pagination-bullet-active {
+	background-color: #fbeae2 !important;
+	opacity: 1 !important;
 }

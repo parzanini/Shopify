@@ -80,9 +80,8 @@
 
 <script>
 	import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
-
 	import logoPath from "../assets/logo/logo.jpg";
-	import router from "../router";
+
 	export default {
 		name: "Navbar",
 		data() {
@@ -152,6 +151,5 @@
 				});
 			},
 		},
-		components: { router },
 	};
 </script>
